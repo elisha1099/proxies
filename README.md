@@ -12,3 +12,5 @@ Bunker itself is actually not a proxy, but it hosts them. It's runs them in a su
 Bunker is the most complicated to set-up but don't let that scare you because it's still really easy.
 
 The last thing I have to say before starting this guide is that **I DID NOT MAKE BUNKER!** I did not contribute in any way to the making of this program, I am simply making a guide for it, if you wanna go to the original page, its [here](https://github.com/JavaScythe/Bunker).
+
+#### Step 1
