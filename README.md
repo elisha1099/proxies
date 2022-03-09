@@ -1,4 +1,4 @@
-# The Best Guide to Internet Freedom.
+# The Best Guide to True Laziness.
 This guide will walk you through all the things you can do on a school Chromebook. Some things are made by me and others arent. To be safe, if I didn't make something I will **explicitly** say so.
 
 ## Proxies.
