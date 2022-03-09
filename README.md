@@ -1,16 +1,25 @@
 # The Best Guide to Internet Freedom.
-This guide will walk you through all the things you can do on a school Chromebook.
+This guide will walk you through all the things you can do on a school Chromebook. Some things are made by me and others arent. To be safe, if I didn't make something I will **explicitly** say so.
 
 ## Proxies.
 Probably the only thing you came here for.
-
-The best proxy you can use on a restricted Chromebook is bunker. A javascript program that runs through a launcher which can boot Bunker using a provider that is unblocked at your school, usually ".github.io". Because Bunker is the best proxy to use, we will go over that first, then glance over the over the other proxies.
+Proxies let you access practically any website on a school Chromebook even at school. They bypass most filters including Securly, Wifi Blocks, and sometimes even GoGuardian. The proxies talked about here are **not** made by me! Not any of them!
 
 ### Bunker Set-up.
 Bunker itself is actually not a proxy, but it hosts them. It's runs them in a super hidden mode meaning your teachers with GoGuardian can't see the pages you're on, and it also keeps the pages from showing up in your history.
 
-Bunker is the most complicated to set-up but don't let that scare you because it's still really easy.
+Bunker is the most complicated to set-up but don't let that scare you because it's still really easy. Though please keep in mind that before doing this or accessing any websites **the district can still see any webiste you go on.** While this guide does bypass GoGuardian and WiFi blocks, the IP address still has to be pulled, meaning anything weird you access will still be logged as an IP address on the districts side, meaning any 
 
-The last thing I have to say before starting this guide is that **I DID NOT MAKE BUNKER!** I did not contribute in any way to the making of this program, I am simply making a guide for it, if you wanna go to the original page, its [here](https://github.com/JavaScythe/Bunker).
+The last thing I have to say before starting this guide is that **I did not make Bunker!** I did not contribute in any way to the making of this program, I am simply making a guide for it, if you wanna go to the original page, its [here](https://github.com/JavaScythe/Bunker).
 
-#### Step 1
+##### Step 1
+Start by going down to the assets section below and download the `bunker-v5-beta.zip` file.
+
+##### Step 2
+Open the files app on your chromebook by pressing the Search ![Search Icon](https://user-images.githubusercontent.com/44753505/157513886-7be09bc7-e9f8-4c29-a4f3-ca630019bb92.png) button. Navigate to the 'Downloads' folder then double-click the `bunker-v5-beta.zip` file to open it.
+
+##### Step 3
+Drag and drop the `bunker-v5-beta` folder into your Google Drive folder in the sidebar. (If you don't have a Google Drive folder visit the help section below on steps to add it back to your sidebar)
+
+##### Done!
+At this point you're done downloading Bunker. All you need now to use it is initialize it. That takes it own set of steps and they have to be done every time you want to use Bunker on a different Chromebook, so for that reason it'll be it's own category.
