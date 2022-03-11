@@ -62,3 +62,6 @@ Start by going [here](https://winterguide.org.uk/?q#). Now just type in a websit
 
 ##### Classic or Stealth?
 Classic has better compatibility, while Stealth hides the sites you visit from your history.
+_________________________
+
+## Bookmarklets
