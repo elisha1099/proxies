@@ -1,11 +1,12 @@
 # The Best Guide to True Laziness.
 This guide will walk you through all the things you can do on a school Chromebook. Some things are made by me and others arent. To be safe, if I didn't make something I will **explicitly** say so.
 
-# Table of contents
+# Table of Contents
 1. [Proxies](#Proxies)
     1. [Bunker](#Bunker)
         1. [Download](#Download)
         2. [ Initilization ](#init)
+    2. [Holy Unblocker](#HolyUB)
 
 ## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
@@ -29,7 +30,7 @@ Start by going down to the assets section below and download the `bunker-v5-beta
 ##### Step 2
 Open the files app on your chromebook by pressing the Search ![Search Icon](https://user-images.githubusercontent.com/44753505/157513886-7be09bc7-e9f8-4c29-a4f3-ca630019bb92.png) button. Navigate to the 'Downloads' folder then double-click the `bunker-v5-beta.zip` file to open it.
 
-##### Step 3
+##### Final Step
 Drag and drop the `bunker-v5-beta` folder into your Google Drive folder in the sidebar. (If you don't have a Google Drive folder visit the help section below on steps to add it back to your sidebar)
 
 ##### Done!
@@ -40,5 +41,22 @@ At this point you're done downloading Bunker. All you need now to use it is init
 This is only part you have to follow if you've already done the download part, and you don't have to repeat the download per Chromebook either.
 
 ##### Step 1
+Open the files app on your Chromebook and open your Google Drive. Open the Bunker folder, this will be named `bunker-v5-beta` unless you changed the name manually, now, open the `launcher.html` file by double-clicking on it.
 
-Open the files app on your Chromebook
+##### Step 2 
+Where it says `select opening provider:` select `*.github.io`.
+
+##### Final Step
+Press on `Initialize bunker index`.
+
+##### Done!
+After this you have full, unrestricted, and hidden internet access. You can access any website as far as I know so please don't be the person that ruins it for everyone by opening porn. Okay?
+
+### Holy Unblocker <a name="HolyUB"></a>
+
+Opening and using Holy Unblocker is very simple.
+
+Start by going [here](https://winterguide.org.uk/?q#). Now just type in a website URL in full, or if you don't know the URL you can just copy and paste `www.google.com` and then find the website with Google.
+
+##### Classic or Stealth?
+Classic has better compatibility, while Stealth hides the sites you visit from your history.
