@@ -4,7 +4,7 @@ This guide will walk you through all the things you can do on a school Chromeboo
 # Table of contents
 1. [Proxies](#Proxies)
     1. [Bunker](#Bunker)
-    2. [Download](#Download)
+        1. [Download](#Download)
 
 ## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
