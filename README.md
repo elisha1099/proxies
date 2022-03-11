@@ -5,9 +5,12 @@ This guide will walk you through all the things you can do on a school Chromeboo
 1. [Proxies](#Proxies)
     1. [Bunker](#Bunker)
         1. [Download](#Download)
-        2. [ Initilization ](#init)
+        2. [Initilization](#init)
     2. [Holy Unblocker](#HolyUB)
 2. [Bookmarklets](#bookmarks)
+    1. [Downloading](#bookmarksdl)
+        1. [Downloading Manually](#manual)
+        2. [Using a Pack](#pack)
 
 ## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
@@ -27,7 +30,7 @@ The last thing I have to say before starting this guide is that **I did not make
 Bunker is the most complicated to set-up but don't let that scare you because it's still really easy. Just follow the steps and you'll be just fine.
 
 ##### Step 1
-Start by going down to the assets section below and download the `bunker-v5-beta.zip` file.
+Start by going down to the assets section in the release section and download the `bunker-v5-beta.zip` file.
 
 ##### Step 2
 Open the files app on your chromebook by pressing the Search ![Search Icon](https://user-images.githubusercontent.com/44753505/157513886-7be09bc7-e9f8-4c29-a4f3-ca630019bb92.png) button. Navigate to the 'Downloads' folder then double-click the `bunker-v5-beta.zip` file to open it.
@@ -68,3 +71,10 @@ _________________________
 ## Bookmarklets <a name="bookmarks"></a>
 Fun little things you can mess around with
 Bookmarklets are small tools you can use to do multiple things with. Some let you play games, others are helpful, and some are just purely destructive. These don't and can't make any permanent changes so don't worry. If you can't get rid of one, just refresh the page.
+
+### Downloading <a name="bookmarksdl"></a>
+For most bookmarklets you have to manually add the page individually, but on here you can pick one of 2 options, downloading a pack or adding them manually. By downloading a pack you can get all Bookmarklets at once, but if you dont want all the Bookmarklets you can add them manually, adding them manually is probably easier but you have to add them one by one so if you want all of them, just get the pack
+
+#### Manual <a name="manual"></a>
+
+#### Using a Pack <a name="pack"></a>
