@@ -78,3 +78,7 @@ For most bookmarklets you have to manually add the page individually, but on her
 #### Manual <a name="manual"></a>
 
 #### Using a Pack <a name="pack"></a>
+
+Using a bookmark pack is as simple as downloading the file and importing it. To import a bookmark pack, go to your [bookmark manager](chrome://bookmarks), then press the 3 dots in the top right and press import bookmarks. Find the pack file and open it, if you downloaded the pack from the release tab it'll be called `bookmarks-version.html`.
+
+After importing the file, the folders should show up in your Bookmarks bar, and just like that you're good to go!
