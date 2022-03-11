@@ -30,3 +30,6 @@ Drag and drop the `bunker-v5-beta` folder into your Google Drive folder in the s
 At this point you're done downloading Bunker. All you need now to use it is initialize it. That takes it own set of steps and they have to be done every time you want to use Bunker on a different Chromebook, so for that reason it'll be it's own category.
 
 #### Bunker Initilization
+
+This is only part you have to follow if you've already done the download part, and you don't have to repeat the download per Chromebook either.
+
