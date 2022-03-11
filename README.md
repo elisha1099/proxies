@@ -11,6 +11,7 @@ This guide will walk you through all the things you can do on a school Chromeboo
 ## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
 Proxies let you access practically any website on a school Chromebook even at school. They bypass most filters including Securly, Wifi Blocks, and sometimes even GoGuardian. The proxies talked about here are **not** made by me! Not any of them!
+_________________________
 
 ### Bunker Set-up <a name="Bunker"></a>
 
@@ -51,6 +52,7 @@ Press on `Initialize bunker index`.
 
 ##### Done!
 After this you have full, unrestricted, and hidden internet access. You can access any website as far as I know so please don't be the person that ruins it for everyone by opening porn. Okay?
+_________________________
 
 ### Holy Unblocker <a name="HolyUB"></a>
 
