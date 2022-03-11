@@ -7,6 +7,7 @@ This guide will walk you through all the things you can do on a school Chromeboo
         1. [Download](#Download)
         2. [ Initilization ](#init)
     2. [Holy Unblocker](#HolyUB)
+2. [Bookmarklets](#bookmarks)
 
 ## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
@@ -64,4 +65,6 @@ Start by going [here](https://winterguide.org.uk/?q#). Now just type in a websit
 Classic has better compatibility, while Stealth hides the sites you visit from your history.
 _________________________
 
-## Bookmarklets
+## Bookmarklets <a name="bookmarks"></a>
+Fun little things you can mess around with
+Bookmarklets are small tools you can use to do multiple things with. Some let you play games, others are helpful, and some are just purely destructive. These don't and can't make any permanent changes so don't worry. If you can't get rid of one, just refresh the page.
