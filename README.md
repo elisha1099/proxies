@@ -1,11 +1,16 @@
 # The Best Guide to True Laziness.
 This guide will walk you through all the things you can do on a school Chromebook. Some things are made by me and others arent. To be safe, if I didn't make something I will **explicitly** say so.
 
-## Proxies.
+# Table of contents
+1. [Proxies](#Proxies)
+    1. [Bunker](#Bunker)
+    2. [Download](#Download)
+
+## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
 Proxies let you access practically any website on a school Chromebook even at school. They bypass most filters including Securly, Wifi Blocks, and sometimes even GoGuardian. The proxies talked about here are **not** made by me! Not any of them!
 
-### Bunker Set-up
+### Bunker Set-up <a name="Bunker"></a>
 
 Bunker itself is actually not a proxy, but it hosts them. It's runs them in a super hidden mode meaning your teachers with GoGuardian can't see the pages you're on, and it also keeps the pages from showing up in your history.
 
@@ -13,7 +18,7 @@ Please keep in mind that before doing this or accessing any websites **the distr
 
 The last thing I have to say before starting this guide is that **I did not make Bunker!** I did not contribute in any way to the making of this program, I am simply making a guide for it, if you wanna go to the original page, its [here](https://github.com/JavaScythe/Bunker).
 
-#### Bunker Download
+#### Bunker Download <a name="Download"></a>
 
 Bunker is the most complicated to set-up but don't let that scare you because it's still really easy. Just follow the steps and you'll be just fine.
 
@@ -33,3 +38,6 @@ At this point you're done downloading Bunker. All you need now to use it is init
 
 This is only part you have to follow if you've already done the download part, and you don't have to repeat the download per Chromebook either.
 
+##### Step 1
+
+Open the files app on your Chromebook
