@@ -1,16 +1,24 @@
 # The Best Guide to True Laziness.
 This guide will walk you through all the things you can do on a school Chromebook. Some things are made by me and others arent. To be safe, if I didn't make something I will **explicitly** say so.
 
+Guide written and made entirely by me, Elisha.
+
 # Table of Contents
-1. [Proxies](#Proxies)
+1. [Introduction](#intro)
+2. [Proxies](#Proxies)
     1. [Bunker](#Bunker)
-        1. [Download](#Download)
+        1. [Download](#DownloadBunker)
         2. [Initilization](#init)
     2. [Holy Unblocker](#HolyUB)
-2. [Bookmarklets](#bookmarks)
+3. [Bookmarklets](#bookmarks)
     1. [Downloading](#bookmarksdl)
         1. [Downloading Manually](#manual)
         2. [Using a Pack](#pack)
+4. [Games](#games)
+
+## Introduction <a name="intro"></a>
+Welcome to this guide! If you're here you most likely know what this is, though if you don't, that's what this intro is for.
+Here you can find things like proxies, games, bookmarklets, and more. This is meant to be like one central area to find all the shit you want, while also having guides on how to set everything up if you need it. Anything that's down or blocked can be reported to the issues tab (you will need a GitHub account without a school email) and I'll try to fix it or add a new link. Also, If you know me personally don't be afraid to ask me to add something. One last thing, if I am missing anything from the guides that makes it confusing or hard to understand, **please** leave an issue on the issue tab! That's all for now, go enjoy your day.
 
 ## Proxies. <a name="Proxies"></a>
 Probably the only thing you came here for.
@@ -25,7 +33,7 @@ Please keep in mind that before doing this or accessing any websites **the distr
 
 The last thing I have to say before starting this guide is that **I did not make Bunker!** I did not contribute in any way to the making of this program, I am simply making a guide for it, if you wanna go to the original page, its [here](https://github.com/JavaScythe/Bunker).
 
-#### Bunker Download <a name="Download"></a>
+#### Bunker Download <a name="DownloadBunker"></a>
 
 Bunker is the most complicated to set-up but don't let that scare you because it's still really easy. Just follow the steps and you'll be just fine.
 
@@ -60,7 +68,7 @@ _________________________
 
 ### Holy Unblocker <a name="HolyUB"></a>
 
-Opening and using Holy Unblocker is very simple.
+Opening and using Holy Unblocker is very simple but wayyyy more restricted.
 
 Start by going [here](https://winterguide.org.uk/?q#). Now just type in a website URL in full, or if you don't know the URL you can just copy and paste `www.google.com` and then find the website with Google.
 
@@ -73,7 +81,7 @@ Fun little things you can mess around with
 Bookmarklets are small tools you can use to do multiple things with. Some let you play games, others are helpful, and some are just purely destructive. These don't and can't make any permanent changes so don't worry. If you can't get rid of one, just refresh the page.
 
 ### Downloading <a name="bookmarksdl"></a>
-For most bookmarklets you have to manually add the page individually, but on here you can pick one of 2 options, downloading a pack or adding them manually. By downloading a pack you can get all Bookmarklets at once, but if you dont want all the Bookmarklets you can add them manually, adding them manually is probably easier but you have to add them one by one so if you want all of them, just get the pack
+For most bookmarklets you have to manually add the page individually, but on here you can pick one of 2 options, downloading a pack or adding them manually. By downloading a pack you can get all Bookmarklets at once, but if you dont want all the Bookmarklets you can add them manually, adding them manually is probably easier but you have to add them one by one so if you want all of them, just get the pack. (The pack will also have games and a few other websites included.)
 
 #### Manual <a name="manual"></a>
 
