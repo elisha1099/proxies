@@ -3,7 +3,7 @@ This guide will walk you through all the things you can do on a school Chromeboo
 
 Guide written and made entirely by me, Elisha.
 
-# Table of Contents
+## Table of Contents
 1. [Introduction](#intro)
 2. [Proxies](#Proxies)
     1. [Bunker](#Bunker)
@@ -84,6 +84,8 @@ Bookmarklets are small tools you can use to do multiple things with. Some let yo
 For most bookmarklets you have to manually add the page individually, but on here you can pick one of 2 options, downloading a pack or adding them manually. By downloading a pack you can get all Bookmarklets at once, but if you dont want all the Bookmarklets you can add them manually, adding them manually is probably easier but you have to add them one by one so if you want all of them, just get the pack. (The pack will also have games and a few other websites included.)
 
 #### Manual <a name="manual"></a>
+
+Adding bookmarklets manually is easy. To start go to the top of the page and open the `bookmarklets.md` file and follow the direcions.
 
 #### Using a Pack <a name="pack"></a>
 
