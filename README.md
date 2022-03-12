@@ -3,7 +3,7 @@ This guide will walk you through all the things you can do on a school Chromeboo
 
 Guide written and made entirely by me, Elisha.
 
-Short Link for sharing: bit.ly/proxies1099
+Short Link for sharing: https://www.bit.ly/proxies1099
 
 ## Table of Contents
 1. [Introduction](#intro)
