@@ -2,6 +2,7 @@
 This guide will walk you through all the things you can do on a school Chromebook. Some things are made by me and others arent. To be safe, if I didn't make something I will **explicitly** say so.
 
 Guide written and made entirely by me, Elisha.
+Short Link for sharing: bit.ly/proxies1099
 
 ## Table of Contents
 1. [Introduction](#intro)
