@@ -7,11 +7,11 @@
 2. [Tools](#tools)
 3. [Misc.](#misc)
 
-### Games
+### Games <a name="games"></a>
 
 
-### Tools
+### Tools <a name="tools"></a>
 
 
-### Misc.
+### Misc. <a name="misc"></a>
 
